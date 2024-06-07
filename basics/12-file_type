@@ -1,2 +1,2 @@
 #!/bin/bash
-pr /tmp/imafile
+pr -f /tmp/imafile
