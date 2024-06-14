@@ -1,1 +1,2 @@
 #!/bin/bash
+my_variable="BEST"; echo "School: $my_variable"
